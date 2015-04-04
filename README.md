@@ -7,7 +7,7 @@ You can use it to thing like dropdown/select2...
 #Download it with bower
 
 ```
-    bower install commen-languages
+    bower install common-languages
 ```
 
 Path from root is: /bower_components/common-languages/lg.json
