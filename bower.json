@@ -1,0 +1,21 @@
+{
+  "name": "common-languages",
+  "version": "0.0.0",
+  "homepage": "https://github.com/voidcode/common-languages",
+  "authors": [
+    "admin12 <terkelsorensen@gmail.com>"
+  ],
+  "description": "Just a .json file with common-languages",
+  "main": "lg.json",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "GPL2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
